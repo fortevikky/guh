@@ -1,0 +1,25 @@
+{
+  "title": "Alkaria",
+  "id": "world.alkaria.2024-07-09.1720577035766",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 112591,
+  "note": "prelim",
+  "snapshotId": null,
+  "originalSize": 132734,
+  "createdAt": 1720577035777,
+  "packageId": "alkaria",
+  "type": "world"
+}
